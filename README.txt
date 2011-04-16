@@ -18,3 +18,8 @@ AUTHOR
 Mark J. Nenadov (2011)
 * Essex, Ontario
 * Email: <marknenadov@gmail.com> 
+
+LICENSE
+
+This is under the Python Software Foundation License v2. Please
+see LICENSE.txt for details.
