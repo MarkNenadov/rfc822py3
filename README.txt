@@ -13,6 +13,10 @@ try:
 except ImportError:
     import rfc822py3 as rfc822
 
+TODO
+
+- Further testing
+
 AUTHOR
 
 Mark J. Nenadov (2011)
