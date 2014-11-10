@@ -1,4 +1,4 @@
-rfc822py3 - A port of the Python 2.x rfc822 module into Python
+rfc822py3 - A port of the Python 2.x rfc822 module into Python 3
 
 INTRODUCTION
 
